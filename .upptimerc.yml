@@ -3,10 +3,12 @@ owner: thinkingschool # Your GitHub organization or username, where this reposit
 repo: upptime # The name of this repository
 
 sites:
-  - name: Thinking School LMS
-    url: https://lms.thinkingschool.vn
-  - name: Thinking School Main Site
+  - name: https://thinkingschool.vn
     url: https://thinkingschool.vn
+  - name: https://lms.thinkingschool.vn
+    url: https://lms.thinkingschool.vn
+  - name: https://thinkingschool.edu.vn
+    url: https://thinkingschool.edu.vn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
