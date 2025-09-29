@@ -40,17 +40,17 @@
     "url": "https://thinkingschool.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/thinkingschool.edu.vn.ico",
     "slug": "https-thinkingschool-edu-vn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3319,
-    "timeDay": 2193,
-    "timeWeek": 2275,
-    "timeMonth": 2680,
-    "timeYear": 3319,
+    "time": 3359,
+    "timeDay": 3552,
+    "timeWeek": 2556,
+    "timeMonth": 2780,
+    "timeYear": 3359,
     "dailyMinutesDown": {}
   }
 ]
