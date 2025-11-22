@@ -13,7 +13,7 @@
     "time": 2343,
     "timeDay": 1974,
     "timeWeek": 2242,
-    "timeMonth": 2482,
+    "timeMonth": 2483,
     "timeYear": 2343,
     "dailyMinutesDown": {}
   },
@@ -40,7 +40,7 @@
     "url": "https://thinkingschool.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/thinkingschool.edu.vn.ico",
     "slug": "https-thinkingschool-edu-vn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 2978,
     "timeDay": 2600,
     "timeWeek": 2819,
-    "timeMonth": 2603,
+    "timeMonth": 2589,
     "timeYear": 2978,
     "dailyMinutesDown": {}
   }
