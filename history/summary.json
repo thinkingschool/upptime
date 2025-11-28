@@ -13,7 +13,7 @@
     "time": 2327,
     "timeDay": 1895,
     "timeWeek": 1884,
-    "timeMonth": 2318,
+    "timeMonth": 2317,
     "timeYear": 2327,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "https://lms.thinkingschool.vn",
     "icon": "https://icons.duckduckgo.com/ip3/lms.thinkingschool.vn.ico",
     "slug": "https-lms-thinkingschool-vn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 2973,
     "timeDay": 1599,
     "timeWeek": 2804,
-    "timeMonth": 2547,
+    "timeMonth": 2548,
     "timeYear": 2973,
     "dailyMinutesDown": {}
   }
