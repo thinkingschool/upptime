@@ -1,7 +1,7 @@
 url: https://lms.thinkingschool.vn
-status: up
-code: 200
-responseTime: 2189
-lastUpdated: 2026-03-26T23:31:38.638Z
+status: down
+code: 415
+responseTime: 1242
+lastUpdated: 2026-03-27T14:40:05.283Z
 startTime: 2025-03-17T09:22:43.557Z
 generator: Upptime <https://github.com/upptime/upptime>
